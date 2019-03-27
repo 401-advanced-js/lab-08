@@ -1,19 +1,20 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab08
 
-### Author: Student/Group Name
+### Spencer Hirata
 
 ### Links and Resources
 * [PR]()
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-08.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-08)
+
+* [back-end](http://xyz.com)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+* [swagger](http://xyz.com)
+* [jsdoc](http://xyz.com)
 
 ### Modules
 #### `modulename.js`
@@ -41,6 +42,3 @@ Usage Notes or examples
 * How do you run tests?
 * What assertions were made?
 * What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
