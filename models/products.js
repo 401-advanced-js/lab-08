@@ -3,27 +3,29 @@
 const uuid = require('uuid/v4');
 
 const schema = {
+  
 };
 
 class Products {
 
   constructor() {
-    this.database = [];
   }
 
   get(id) {
+    let request = id? {id}:{};
+    return schema.find(request);
   }
   
   post(entry) {
+    return new schema(entry).save();
   }
 
   put(id, entry) {
+    return schema.findByIdAndUpdate(id, entry, {new:true});
   }
 
   delete(id) {
-  }
-
-  sanitize(entry) {
+    return schema.findByIdAndDelete(id);
   }
 
 }

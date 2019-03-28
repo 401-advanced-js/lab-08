@@ -6,11 +6,9 @@
 ### Spencer Hirata
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-js/lab-08/pull/2)
 
 [![Build Status](https://travis-ci.com/401-advanced-js/lab-08.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-08)
-
-* [back-end](http://xyz.com)
 
 #### Documentation
 * [swagger](http://xyz.com)
