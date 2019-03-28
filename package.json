@@ -16,6 +16,7 @@
   "dependencies": {
     "eslint": "^5.15.3",
     "jest": "^24.5.0",
-    "lint": "^1.1.2"
+    "lint": "^1.1.2",
+    "mongoose": "^5.4.20"
   }
 }
